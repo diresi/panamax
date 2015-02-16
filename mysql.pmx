@@ -1,0 +1,10 @@
+---
+name: mysql
+description: centurylink/mysql
+keywords: ''
+type: MySQL
+documentation: ''
+images:
+- name: centurylink_mysql_latest
+  source: centurylink/mysql:latest
+  type: Default
